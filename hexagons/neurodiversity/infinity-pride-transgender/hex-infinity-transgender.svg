@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="hexagon_sticker" data-name="hexagon sticker" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 198 198">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #231f20;
+        stroke: #010101;
+        stroke-linecap: round;
+        stroke-width: 2.14px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        stroke: #fff;
+      }
+
+      .cls-4, .cls-5 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-6 {
+        fill: #f6a0b3;
+      }
+
+      .cls-5 {
+        stroke: #b1b1b1;
+        stroke-width: .25px;
+      }
+
+      .cls-7 {
+        fill: #00bcda;
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <path id="sticker_clip_path" data-name="sticker clip path" class="cls-4" d="m177.94,141.09c0,1.8-.96,3.45-2.52,4.34l-73.94,42.15c-1.53.88-3.42.88-4.95,0l-73.94-42.15c-1.56-.89-2.52-2.55-2.52-4.34V56.91c0-1.8.96-3.45,2.52-4.34L96.52,10.41c1.53-.88,3.42-.88,4.95,0l73.94,42.15c1.56.89,2.52,2.55,2.52,4.34v84.19Z"/>
+    </clipPath>
+  </defs>
+  <g id="hexagon_clip_group" data-name="hexagon clip group">
+    <g class="cls-8">
+      <g id="transgender_flag" data-name="transgender flag">
+        <rect id="blue_stripe_lower" data-name="blue stripe lower" class="cls-7" x="-31" y="131" width="260" height="58"/>
+        <rect id="pink_stripe_lower" data-name="pink stripe lower" class="cls-6" x="-31" y="99.1" width="260" height="47.9"/>
+        <rect id="white_stripe" data-name="white stripe" class="cls-3" x="-31" y="67.05" width="260" height="48.05"/>
+        <rect id="pink_stripe_upper" data-name="pink stripe upper" class="cls-6" x="-31" y="30" width="260" height="53.05"/>
+        <rect id="blue_stripe_upper" data-name="blue stripe upper" class="cls-7" x="-31" y="9" width="260" height="42"/>
+      </g>
+      <g id="infinity">
+        <path class="cls-2" d="m93.65,111.53c-7.21,6.95-15.46,13.53-25.83,13.53-14.62.27-26.65-11.44-26.77-26.06,0-15.14,10.39-26.06,25.36-26.06,14.27,0,23.61,9.86,32.59,18.84l5.31-5.26c7.21-6.97,15.48-13.59,25.88-13.59,14.62-.27,26.65,11.44,26.77,26.06,0,15.14-10.56,26.06-25.36,26.06-14.27,0-23.61-9.86-32.59-18.84l-5.35,5.31Zm12.42-12.53c6.68,6.87,14.78,15.5,24.82,15.5,8.53.13,15.39-6.98,14.97-15.5-.01-8.55-6.94-15.48-15.5-15.5-7.57,0-13.5,5.03-18.86,10.22l-5.44,5.28Zm-14.08,0c-6.7-6.87-14.8-15.5-24.84-15.5-8.53-.13-15.39,6.98-14.97,15.5h0c.01,8.55,6.95,15.49,15.5,15.5,7.6,0,13.54-5.07,18.91-10.27l5.4-5.22Z"/>
+        <line class="cls-1" x1="99" y1="91.78" x2="106.04" y2="99.01"/>
+        <line class="cls-1" x1="91.96" y1="99.01" x2="99" y2="106.24"/>
+      </g>
+      <g id="border">
+        <path id="inner_hexagon_outline" data-name="inner hexagon outline" class="cls-5" d="m27.95,61.41v75.19c0,1.8.96,3.45,2.52,4.34l66.05,37.65c1.53.87,3.42.87,4.95,0l66.05-37.65c1.56-.89,2.52-2.55,2.52-4.34V61.41c0-1.8-.96-3.45-2.52-4.34L101.48,19.41c-1.53-.87-3.42-.87-4.95,0L30.48,57.06c-1.56.89-2.52,2.55-2.52,4.34Z"/>
+        <path id="white_hexagon_border" data-name="white hexagon border" class="cls-3" d="m175.42,52.56L101.48,10.41c-1.53-.88-3.42-.88-4.95,0L22.58,52.56c-1.56.89-2.52,2.55-2.52,4.34v84.19c0,1.8.96,3.45,2.52,4.34l73.94,42.15c1.53.88,3.42.88,4.95,0l73.94-42.15c1.56-.89,2.52-2.55,2.52-4.34V56.91c0-1.8-.96-3.45-2.52-4.34Zm-5.37,84.03c0,1.8-.96,3.45-2.52,4.34l-66.05,37.65c-1.53.88-3.42.88-4.95,0l-66.05-37.65c-1.56-.89-2.52-2.55-2.52-4.34V61.41c0-1.8.96-3.45,2.52-4.34L96.52,19.41c1.53-.88,3.42-.88,4.95,0l66.05,37.65c1.56.89,2.52,2.55,2.52,4.34v75.19Z"/>
+      </g>
+    </g>
+    <path id="sticker_clip_path-2" data-name="sticker clip path" class="cls-4" d="m177.94,141.09c0,1.8-.96,3.45-2.52,4.34l-73.94,42.15c-1.53.88-3.42.88-4.95,0l-73.94-42.15c-1.56-.89-2.52-2.55-2.52-4.34V56.91c0-1.8.96-3.45,2.52-4.34L96.52,10.41c1.53-.88,3.42-.88,4.95,0l73.94,42.15c1.56.89,2.52,2.55,2.52,4.34v84.19Z"/>
+  </g>
+</svg>
